@@ -1,3 +1,6 @@
 Adding mars planet
 
-Addind something different from Diego.
+Adicionando algo diferente no arquivo mars.txt e fazendo uma modificação para gerar conflito de arquivos.
+
+Whatever it be...
+
