@@ -1,1 +1,3 @@
 Adding mars planet
+
+Adicionando algo diferente no arquivo mars.txt e fazendo uma modificação para gerar conflito de arquivos.
